@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Inventário
+# Sistema de Gerenciamento de Produtos
 
 Este é um sistema de gerenciamento de produtos que permite adicionar, listar, atualizar, remover e buscar produtos. Todas as interações são feitas via terminal, ele foi desenvolvido em Python e usa arquivos JSON para salvar os dados.
 
