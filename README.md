@@ -40,7 +40,7 @@ Salva os dados em um arquivo `produtos.json` e encerra o sistema.
 Os dados são salvos em um arquivo chamado produtos.json no seguinte formato:
 
 <div>
-  <img src="img/json.png" alt="Recomendações" style=" width: 30vw; height: 65h;">  
+  <img src="img/json.png" alt="Recomendações" style=" width: 25vw; height: 60h;">  
 </div>
 
 
